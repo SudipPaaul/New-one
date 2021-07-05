@@ -2,7 +2,7 @@ body{
     font-family:'Poppins', sans-serif;
 }
 .background{
-    background-image: url("images/header-bg.png");
+    background-image: url("Images/header-bg.png");
     background-repeat: no-repeat;
 }
 .half-width{
@@ -37,7 +37,7 @@ p{
     border-radius: 5px;
 }
 .nd-background{
-    background-image: url("images/biography-bg.png");
+    background-image: url("Images/biography-bg.png");
     background-repeat: no-repeat;
 }
 
